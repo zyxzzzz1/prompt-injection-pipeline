@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+*.csv
+*.log
+*.pdf
+*.tar.gz
+*.vmdk
+*.vmem
+*.vmss
+*.nvram
+*.scoreboard
+*.vmsd
+*.vmxf
+新建*
+lab3/
